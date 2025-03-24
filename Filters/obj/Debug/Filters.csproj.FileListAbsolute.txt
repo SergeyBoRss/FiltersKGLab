@@ -1,0 +1,10 @@
+H:\RiderPrs\Filters\Filters\bin\Debug\Filters.exe.config
+H:\RiderPrs\Filters\Filters\bin\Debug\Filters.exe
+H:\RiderPrs\Filters\Filters\bin\Debug\Filters.pdb
+H:\RiderPrs\Filters\Filters\obj\Debug\Filters.csproj.AssemblyReference.cache
+H:\RiderPrs\Filters\Filters\obj\Debug\Filters.Properties.Resources.resources
+H:\RiderPrs\Filters\Filters\obj\Debug\Filters.csproj.GenerateResource.cache
+H:\RiderPrs\Filters\Filters\obj\Debug\Filters.csproj.CoreCompileInputs.cache
+H:\RiderPrs\Filters\Filters\obj\Debug\Filters.exe
+H:\RiderPrs\Filters\Filters\obj\Debug\Filters.pdb
+H:\RiderPrs\Filters\Filters\obj\Debug\Filters.Form1.resources
